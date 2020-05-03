@@ -16,7 +16,7 @@ Adds a new post to the list of posts retrieved from the api
 *Redux* has been used just so that we can share states between the two components i.e. adding a post to the form 
 will update the list of the form data.
 
-Also for debugging purpose, install the [redux chrome extension](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en) which is just an *enhancer function* and has been implemented in the file [store.js](src/Store.js) <br/>
+Also for debugging purpose, install the [redux chrome extension](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en) which is just an *enhancer function* and has been implemented in the file [store.js](src/store.js) <br/>
 
 ### In the project directory, you can run:
 
