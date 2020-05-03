@@ -3,16 +3,17 @@
 
 This application is a basic implementation of *redux* library along with *create-react-app* cli.
 
-### It has two components :
+## It has two components :
 
 #### Post component :
-            This fetches a list of post from the [JSON Placeholder](https://jsonplaceholder.typicode.com)api which is                               a dummy rest api
+            This fetches a list of post from the [JSON Placeholder(https://jsonplaceholder.typicode.com)]api<br/>
+             which is a dummy rest api
 
 #### Form component : 
             This is used to add a new post 
 
 
-Redux has been used just so that we can share states between the two components i.e. adding a post to the form 
+*Redux* has been used just so that we can share states between the two components i.e. adding a post to the form 
 will update the list of the form data.
 
 In the project directory, you can run:
