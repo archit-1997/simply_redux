@@ -6,7 +6,7 @@ This application is a basic implementation of *redux* library along with *create
 ## It has two components :
 
 #### Post component
-Fetches a list of posts from the [JSON Placeholder api](https://jsonplaceholder.typicode.com)<br/>
+Fetches a list of posts from the [JSON Placeholder api](https://jsonplaceholder.typicode.com)
 which is a dummy rest api
 
 #### Form component 
