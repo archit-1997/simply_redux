@@ -1,5 +1,5 @@
 
-# simply-redux
+# [simply-redux](https://simply-redux.herokuapp.com/)
 
 This application is a basic implementation of *redux* library along with *create-react-app* cli. This application fetches data from a rest api and adds a new post to the api with the help of fetchPosts and createPosts as reducer functions.
 
